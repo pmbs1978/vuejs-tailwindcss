@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col justify-center items-center w-5/6 mx-auto">
+  <main class="flex flex-col justify-center items-center w-5/6 mx-auto">
     <div class="w-full bg-gray-200 shadow-xl rounded-lg p-2 uppercase text-center text-xl">
       version
     </div>
@@ -27,7 +27,7 @@ eslint: 8.5.0
 eslint-plugin-vue: 9.0.0
 prettier: 2.5.1
       </pre>
-  </div>
+  </main>
 </template>
 
 <script setup>

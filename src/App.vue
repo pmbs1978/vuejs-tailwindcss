@@ -18,9 +18,7 @@
 <style>
 @import url('./assets/base.css');
 
-body {
-  background-color: rgb(243, 244, 246);
-}
+
 
 .router-link-exact-active {
   color: blue;
