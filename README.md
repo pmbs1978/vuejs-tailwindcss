@@ -1,3 +1,4 @@
+ <!-- 
  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
    $$$$$$$\        $$\      $$\       $$$$$$$\         $$$$$$\  
@@ -10,10 +11,10 @@
    \__|            \__|     \__|      \_______/        \______/ 
                                                                                                                    
                                                                                                                 
-   name       -->> vuejs-tailwindcss
-   versão     -->> 1.0.1
-   data       -->> 2022/07/04
-   descrição  -->> Pre-configured project with VITE, VueJS, Tailwindcss, Postcss e Autoprefixer. Added - base: '' - to vite.config.js
+   name       ->> vuejs-tailwindcss
+   versão     ->> 1.0.1
+   data       ->> 2022/07/04
+   descrição  ->> Pre-configured project with VITE, VueJS, Tailwindcss, Postcss e Autoprefixer. Added - base: '' - to vite.config.js
    dependencies:   vite: 2.9.12
                    vitejs/plugin-vue: 2.3.3
                    vue: 3.2.37
@@ -26,9 +27,10 @@
                    eslint: 8.5.0
                    eslint-plugin-vue: 9.0.0
                    prettier: 2.5.1
-   log        -->>
+   log        ->>
 
- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+ -->
 
 # .
 
