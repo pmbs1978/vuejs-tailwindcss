@@ -11,7 +11,7 @@
    \__|            \__|     \__|      \_______/        \______/ 
                                                                                                                    
                                                                                                                 
-   name       ->> vuejs-tailwindcss
+   name       ->> vuejs-tailwindcss-starter-project
    versão     ->> 1.0.1
    data       ->> 2022/07/04
    descrição  ->> Pre-configured project with VITE, VueJS, Tailwindcss, Postcss e Autoprefixer. Added - base: '' - to vite.config.js

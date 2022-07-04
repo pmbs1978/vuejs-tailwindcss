@@ -1,6 +1,6 @@
 {
-  "name": "vue-tailwind",
-  "version": "0.0.0",
+  "name": "vuejs-tailwindcss-starter-project",
+  "version": "1.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
